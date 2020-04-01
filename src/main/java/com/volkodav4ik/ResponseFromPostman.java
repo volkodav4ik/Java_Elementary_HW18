@@ -1,6 +1,5 @@
 package com.volkodav4ik;
 
-import java.util.List;
 import java.util.Map;
 
 public class ResponseFromPostman {
